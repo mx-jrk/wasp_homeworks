@@ -1,0 +1,15 @@
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\bin\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.exe
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\bin\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.deps.json
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\bin\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.runtimeconfig.json
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\bin\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\bin\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.csproj.AssemblyReference.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.AssemblyInfoInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.AssemblyInfo.cs
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.csproj.CoreCompileInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\refint\HomeWork_26.11.2022 - Автопарк.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\HomeWork_26.11.2022 - Автопарк.genruntimeconfig.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWorks\HomeWork_26.11.2022 - Автопарк\obj\Debug\net6.0\ref\HomeWork_26.11.2022 - Автопарк.dll
