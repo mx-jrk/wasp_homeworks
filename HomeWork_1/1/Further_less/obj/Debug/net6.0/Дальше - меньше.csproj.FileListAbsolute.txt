@@ -1,0 +1,15 @@
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\bin\Debug\net6.0\Дальше - меньше.exe
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\bin\Debug\net6.0\Дальше - меньше.deps.json
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\bin\Debug\net6.0\Дальше - меньше.runtimeconfig.json
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\bin\Debug\net6.0\Дальше - меньше.dll
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\bin\Debug\net6.0\Дальше - меньше.pdb
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.csproj.AssemblyReference.cache
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.AssemblyInfoInputs.cache
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.AssemblyInfo.cs
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.csproj.CoreCompileInputs.cache
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.dll
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\refint\Дальше - меньше.dll
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.pdb
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\Дальше - меньше.genruntimeconfig.cache
+G:\Мой диск\Учёба\WASP academy\Дальше - меньше\obj\Debug\net6.0\ref\Дальше - меньше.dll

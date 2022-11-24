@@ -1,0 +1,15 @@
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\bin\Debug\net6.0\k_minimum.exe
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\bin\Debug\net6.0\k_minimum.deps.json
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\bin\Debug\net6.0\k_minimum.runtimeconfig.json
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\bin\Debug\net6.0\k_minimum.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\bin\Debug\net6.0\k_minimum.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.csproj.AssemblyReference.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.AssemblyInfoInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.AssemblyInfo.cs
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.csproj.CoreCompileInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\refint\k_minimum.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\k_minimum.genruntimeconfig.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\k_minimum\obj\Debug\net6.0\ref\k_minimum.dll

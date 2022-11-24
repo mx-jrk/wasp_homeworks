@@ -1,0 +1,15 @@
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\bin\Debug\net6.0\Smart_array_output.exe
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\bin\Debug\net6.0\Smart_array_output.deps.json
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\bin\Debug\net6.0\Smart_array_output.runtimeconfig.json
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\bin\Debug\net6.0\Smart_array_output.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\bin\Debug\net6.0\Smart_array_output.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.csproj.AssemblyReference.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.AssemblyInfoInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.AssemblyInfo.cs
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.csproj.CoreCompileInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\refint\Smart_array_output.dll
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\Smart_array_output.genruntimeconfig.cache
+C:\Users\mx_jrk\Documents\WASP_academy\HomeWork_2\Smart_array_output\obj\Debug\net6.0\ref\Smart_array_output.dll

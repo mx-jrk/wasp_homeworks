@@ -1,0 +1,15 @@
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\bin\Debug\net6.0\Волшебные чсла.exe
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\bin\Debug\net6.0\Волшебные чсла.deps.json
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\bin\Debug\net6.0\Волшебные чсла.runtimeconfig.json
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\bin\Debug\net6.0\Волшебные чсла.dll
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\bin\Debug\net6.0\Волшебные чсла.pdb
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.csproj.AssemblyReference.cache
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.AssemblyInfoInputs.cache
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.AssemblyInfo.cs
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.csproj.CoreCompileInputs.cache
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.dll
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\refint\Волшебные чсла.dll
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.pdb
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\Волшебные чсла.genruntimeconfig.cache
+G:\Мой диск\Учёба\WASP academy\Волшебные чсла\obj\Debug\net6.0\ref\Волшебные чсла.dll

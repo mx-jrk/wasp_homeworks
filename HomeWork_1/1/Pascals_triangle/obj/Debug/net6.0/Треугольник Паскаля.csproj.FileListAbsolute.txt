@@ -1,0 +1,15 @@
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\bin\Debug\net6.0\Треугольник Паскаля.exe
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\bin\Debug\net6.0\Треугольник Паскаля.deps.json
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\bin\Debug\net6.0\Треугольник Паскаля.runtimeconfig.json
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\bin\Debug\net6.0\Треугольник Паскаля.dll
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\bin\Debug\net6.0\Треугольник Паскаля.pdb
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.csproj.AssemblyReference.cache
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.AssemblyInfoInputs.cache
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.AssemblyInfo.cs
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.csproj.CoreCompileInputs.cache
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.dll
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\refint\Треугольник Паскаля.dll
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.pdb
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\Треугольник Паскаля.genruntimeconfig.cache
+G:\Мой диск\Учёба\WASP academy\Треугольник Паскаля\obj\Debug\net6.0\ref\Треугольник Паскаля.dll
