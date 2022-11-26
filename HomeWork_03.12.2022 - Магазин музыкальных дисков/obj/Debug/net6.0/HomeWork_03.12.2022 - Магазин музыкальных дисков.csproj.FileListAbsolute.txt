@@ -1,0 +1,15 @@
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\bin\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.exe
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\bin\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.deps.json
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\bin\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.runtimeconfig.json
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\bin\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.dll
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\bin\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.csproj.AssemblyReference.cache
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.AssemblyInfoInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.AssemblyInfo.cs
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.csproj.CoreCompileInputs.cache
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.dll
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\refint\HomeWork_03.12.2022 - Магазин музыкальных дисков.dll
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.pdb
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\HomeWork_03.12.2022 - Магазин музыкальных дисков.genruntimeconfig.cache
+C:\Users\mx_jrk\Documents\WASP_academy\ClassWorks\HomeWork_03.12.2022 - Магазин музыкальных дисков\obj\Debug\net6.0\ref\HomeWork_03.12.2022 - Магазин музыкальных дисков.dll

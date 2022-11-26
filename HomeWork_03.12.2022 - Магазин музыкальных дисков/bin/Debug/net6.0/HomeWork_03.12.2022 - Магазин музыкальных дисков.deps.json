@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HomeWork_03.12.2022 - Магазин музыкальных дисков/1.0.0": {
+        "runtime": {
+          "HomeWork_03.12.2022 - Магазин музыкальных дисков.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork_03.12.2022 - Магазин музыкальных дисков/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
