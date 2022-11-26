@@ -9,22 +9,24 @@ namespace HomeWork_26._11._2022___Автопарк
     internal class Autopark
     {
         string name;
-        public List<String> park = new List<String>();
-        public Autopark(string name, string brand, string power, int production_year)
+        public List<Car> park = new List<Car>();
+        public Autopark(string name, List<Car> park)
         {
             this.name = name;
-            this.park.Add(brand);
-            this.park.Add(power);
-            this.park.Add(production_year.ToString());
+            this.park= park;
         }
 
+        //Переопределенный метод ToString
         public override string ToString()
         {
             string res = "Название автопарка: " +  name + "\n" + "Параметры автомобиля:";
             foreach (var x in park)
             {
+                if (x.ToString().Contains("Марка")) res += "\n";
                 res += " " + x.ToString();
+                
             }
+            res+= "\n";
             return res;
         }
     }

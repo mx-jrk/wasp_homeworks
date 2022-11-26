@@ -32,7 +32,12 @@ namespace HomeWork_26._11._2022___Автопарк
         Dictionary<string, int> repair_book = new Dictionary<string, int>() { };
 
         //Конструктор в вызовом родительского конструктора
-        public PassengerCar(string brand, string power, int production_year) : base(brand, power, production_year) { }
+        public PassengerCar(string brand, string power, int production_year, int count_of_passangers) : base(brand, power, production_year) {
+            this.brand = brand;
+            this.power = power;
+            this.production_year = production_year;
+            this.count_of_passangers= count_of_passangers;
+        }
 
         //Добавление замененной запчасти в ремонтную книжку
         public void add_autopart(int replacement_year, string replaced_autopart) {
@@ -66,8 +71,13 @@ namespace HomeWork_26._11._2022___Автопарк
         public string drivers_FM;
         Dictionary<string, int> current_cargo = new Dictionary<string, int>() { };
 
-        public Truck(string brand, string power, int production_year) : base(brand, power, production_year)
+        public Truck(string brand, string power, int production_year, int maximum_load_capacity, string drivers_FM) : base(brand, power, production_year)
         {
+            this.brand = brand;
+            this.power = power;
+            this.production_year = production_year;
+            this.maximum_load_capacity = maximum_load_capacity;
+            this.drivers_FM= drivers_FM;
         }
 
         //Изменение водителя
@@ -77,24 +87,14 @@ namespace HomeWork_26._11._2022___Автопарк
         }
 
         //Добавление и удаление груза;
-        public void change_cargo()
+        public void change_cargo(string product_name, int weight, int to_do)
         {
-            Console.WriteLine("Чтобы добавить груз - введите 1. Чтобы удалить груз ввведите 0");
-            int to_do = Int32.Parse(Console.ReadLine());
-            string product_name;
             if (to_do == 1)
             {
-                Console.WriteLine("Введите название товара");
-                product_name = Console.ReadLine();
-                Console.WriteLine("Введите вес товара");
-                int weight = Int32.Parse(Console.ReadLine());
                 current_cargo.Add(product_name, weight);
-
             }
-            else
+            else if (to_do == 0)
             {
-                Console.WriteLine("Введите название груза, который необходимо удалить");
-                product_name = Console.ReadLine();
                 current_cargo.Remove(product_name);
             }
         }
@@ -104,7 +104,7 @@ namespace HomeWork_26._11._2022___Автопарк
         {
             foreach (var kvp in current_cargo)
             {
-                Console.WriteLine("Наименование груза = {0}, Вес груза = {1}", kvp.Key, kvp.Value);
+                Console.WriteLine("Наименование груза: {0}, Вес груза: {1}", kvp.Key, kvp.Value);
             }
         }
 
