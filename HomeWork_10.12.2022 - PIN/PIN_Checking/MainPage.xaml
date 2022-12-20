@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PIN_Checking.MainPage">
+
+	<Grid
+		ColumnDefinitions="*, *, *"
+		RowDefinitions="2.5*, *, *, *, *">
+		<Button Grid.Row="1" Grid.Column="0" Text="1" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="1" Grid.Column="1" Text="2" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="1" Grid.Column="2" Text="3" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="2" Grid.Column="0" Text="4" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="2" Grid.Column="1" Text="5" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="2" Grid.Column="2" Text="6" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="3" Grid.Column="0" Text="7" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="3" Grid.Column="1" Text="8" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="3" Grid.Column="2" Text="9" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+        <Button Grid.Row="4" Grid.Column="1" Text="0" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Digit_Clicked"/>
+
+        <Button Grid.Row="4" Grid.Column="0" Text="X" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Reset_CLicked"/>
+        <Button Grid.Row="4" Grid.Column="3" Text="✔" TextColor="Black" BackgroundColor="White" BorderWidth="2"  CornerRadius="0" FontSize="50" Clicked="Check_Clicked"/>
+
+		<Label x:Name="DisplayLabel" FontSize="50" Grid.ColumnSpan="3" HorizontalTextAlignment="End" VerticalTextAlignment="End" Margin="0, 0, 20, 10"/>
+
+    </Grid>
+
+</ContentPage>
